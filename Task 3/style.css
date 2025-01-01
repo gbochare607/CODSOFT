@@ -1,0 +1,42 @@
+.container{
+    border: 2px solid black;
+    width: 280px;
+    text-align: center;
+    margin: auto;
+    height: 370px;
+    align-content: center;
+    background-color: azure;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    width: 52px;
+    height: 50px;
+    cursor: pointer;
+    border: 1.5px solid black;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: rgb(176, 248, 205);
+}
+
+input{
+    width: 225px;
+    height: 32px;
+    border: 1.5px solid black;
+    padding: 5px;
+    margin: auto;
+    font-size: 17px;
+    border-radius: 4px;
+}
+
+.row{
+    margin: 5px;;
+}
